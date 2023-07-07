@@ -98,7 +98,7 @@ def center(var:str, space:int=None): # From Pycenter
 def checker():
     global good, timeban, perban, notexist, rate, checked, verified, unverified, errors
     global skinned, no_skins, good, eu, na, br, kr, latam, ap, ratelimit, unranked, iron, bronze, silver, gold, platinum, diamond, ascendant, immortal, radiant, _1_9, _10_19, _20_29, _30_39, _40_49, _50_99, _100_150, _151
-    print("Github.com/edzusans")
+    print("Github.com/Hxaoi")
     print("[1] GUI")
     print("[2] LOG")
     print("[3] FULL CAPTURE")
